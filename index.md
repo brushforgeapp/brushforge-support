@@ -9,8 +9,8 @@ title: BrushForge Support
 BrushForge helps miniature painters convert paints, manage collections, and build palettes.
 
 ## Get Help
-- 📧 Email: support@yourdomain.com *(placeholder — use a forwarding address or a temporary email)*
-- 🐙 GitHub Issues: https://github.com/<your-username>/brushforge-support/issues
+- 📧 Email: brushforgeapp@gmail.com
+- 🐙 GitHub Issues: https://github.com/brushforgeapp/brushforge-support/issues
 
 ## Common Tasks
 - **Restore Purchases:** Open the app → Profile → *Restore Purchases*. Purchases are tied to your Apple ID.
