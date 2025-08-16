@@ -13,7 +13,7 @@ BrushForge helps miniature painters convert paints, manage collections, build pa
 ## Get Help
 
 - 📧 Email: [brushforgeapp@gmail.com](mailto:brushforgeapp@gmail.com)
-- 🐙 GitHub Issues: https://github.com/brushforgeapp/brushforge-support/issues
+- 🐙 GitHub Issues: [https://github.com/brushforgeapp/brushforge-support/issues](https://github.com/brushforgeapp/brushforge-support/issues)
 
 ---
 
@@ -24,19 +24,20 @@ Open the app → **Profile** → **Restore Purchases**.
 Purchases are tied to your Apple ID. If you changed Apple IDs, restoration won’t work.
 
 **Report a Paint/Color Issue**  
-In the app, open the paint → **Report Issue**, or open a GitHub issue:
-https://github.com/brushforgeapp/brushforge-support/issues/new/choose
+In the app, open the paint → **Report Issue**, or open a GitHub issue:  
+[https://github.com/brushforgeapp/brushforge-support/issues/new/choose](https://github.com/brushforgeapp/brushforge-support/issues/new/choose)
 
 **Suggest a Feature**  
-Tell us what would help you most: https://github.com/brushforgeapp/brushforge-support/issues
+Tell us what would help you most:  
+[https://github.com/brushforgeapp/brushforge-support/issues](https://github.com/brushforgeapp/brushforge-support/issues)
 
 ---
 
 ## Documentation
 
-- 🔐 Privacy Policy: https://brushforgeapp.github.io/brushforge-support/privacy.html
-- ❓ FAQ & Troubleshooting: https://brushforgeapp.github.io/brushforge-support/faq.html
-- ✉️ Contact: https://brushforgeapp.github.io/brushforge-support/contact.html
+- 🔐 Privacy Policy: [https://brushforgeapp.github.io/brushforge-support/privacy.html](https://brushforgeapp.github.io/brushforge-support/privacy.html)
+- ❓ FAQ & Troubleshooting: [https://brushforgeapp.github.io/brushforge-support/faq.html](https://brushforgeapp.github.io/brushforge-support/faq.html)
+- ✉️ Contact: [https://brushforgeapp.github.io/brushforge-support/contact.html](https://brushforgeapp.github.io/brushforge-support/contact.html)
 
 ---
 
