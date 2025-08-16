@@ -36,7 +36,7 @@ Tell us what would help you most:
 ## Documentation
 
 - 🔐 Privacy Policy: [https://brushforgeapp.github.io/brushforge-support/privacy.html](https://brushforgeapp.github.io/brushforge-support/privacy.html)
-- ❓ FAQ & Troubleshooting: [https://brushforgeapp.github.io/brushforge-support/faq.html](https://brushforgeapp.github.io/brushforge-support/faq.html)
+- ❓ FAQ & Troubleshooting: [https://brushforgeapp.github.io/brushforge-support/faq.html](https://brushforgeapp.github.io/brushforge-support/faq.md)
 - ✉️ Contact: [https://brushforgeapp.github.io/brushforge-support/contact.html](https://brushforgeapp.github.io/brushforge-support/contact.html)
 
 ---
